@@ -3,7 +3,6 @@ Analyze CodeX's entry into the Indian energy drink market with this data-driven 
 
 # Tools Used
 Power Bi - Created a dashboard that provides insights the marketing team.
-
 Power Query - Basic data transformations.
 
 
