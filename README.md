@@ -16,4 +16,7 @@ Power Query - Basic data transformations.
 * ) People prefer to buy drinks from a supermarket in compact cans with a price range of 50-99
 * ) The cities CodeX should focus more on Pune, Delhi, Jaipur, Mumbai, Lucknow
 
+  
+<img width="880" height="492" alt="image" src="https://github.com/user-attachments/assets/eddbdcad-740d-414f-b2d5-27efc63c52ca" />
+
 
